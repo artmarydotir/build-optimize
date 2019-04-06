@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "name": "Dezh",
+  "description": "Centralize firewall management system",
+  "icons": {
+    "60": "/img/icons/firefox_app_60x60.png",
+    "128": "/img/icons/firefox_app_128x128.png",
+    "512": "/img/icons/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": "AASAAM Software Group",
+    "url": "https://github.com/AASAAM/dezh"
+  }
+}
